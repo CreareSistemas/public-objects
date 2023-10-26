@@ -4,7 +4,7 @@ hide stereotype
 skinparam UseBetaStyle true
 skinparam DefaultTextAlignment center
 skinparam Padding 7 
-skinparam DefaultFontName Courier
+skinparam DefaultFontName Helvetica
 skinparam linetype ortho
 skinparam shadowing true 
 'skinparam titleBorderRoundCorner 15
