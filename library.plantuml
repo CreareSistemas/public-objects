@@ -26,14 +26,256 @@ skinparam shadowing true
         FontColor gray
     }
 
-    '----cores
-        .roxo {
+    'COLORS:
+
+    .red1 {
+        RoundCorner 10
+        FontColor black
+        BackgroundColor #ff9999
+        FontSize 20
+        linecolor #363636
+    }
+
+    .red2 {
+        RoundCorner 10
+        FontColor white
+        BackgroundColor #Ff0000
+        FontSize 20
+        linecolor #363636
+    }
+
+    .red3 {
+        RoundCorner 10
+        FontColor white
+        BackgroundColor #b30000
+        FontSize 20
+        linecolor #363636
+    }
+
+    .orange1 {
+        RoundCorner 10
+        FontColor white
+        BackgroundColor #Ff5100
+        FontSize 20
+        linecolor #363636
+    }
+
+    .orange2 {
+        RoundCorner 10
+        FontColor black 
+        BackgroundColor #Ff7800
+        FontSize 20
+        linecolor #363636
+    }
+
+    .orange3 {
+        RoundCorner 10
+        FontColor Black
+        BackgroundColor #Ff9500
+        FontSize 20
+        linecolor #363636
+    }
+
+    .yellow1 {
+        RoundCorner 10
+        FontColor Black
+        BackgroundColor #F0ff00
+        FontSize 20
+        linecolor #363636
+    }
+
+    .yellow2 {
+        RoundCorner 10
+        FontColor Black 
+        BackgroundColor #Ffe700
+        FontSize 20
+        linecolor #363636
+    }
+
+    .yellow3 {
+        RoundCorner 10
+        FontColor Black
+        BackgroundColor #Ffc400
+        FontSize 20
+        linecolor #363636
+    }
+
+    .green1 {
+        RoundCorner 10
+        FontColor Black
+        BackgroundColor #B1ff00
+        FontSize 20
+        linecolor #363636
+    }
+
+    .green2 {
+        RoundCorner 10
+        FontColor Black 
+        BackgroundColor #5aff00
+        FontSize 20
+        linecolor #363636
+    }
+
+    .green3 {
+        RoundCorner 10
+        FontColor white 
+        BackgroundColor #00991e
+        FontSize 20
+        linecolor #363636
+    }
+
+    .turquoise1 {
+        RoundCorner 10
+        FontColor Black
+        BackgroundColor #00ffd2
+        FontSize 20
+        linecolor #363636
+    }
+
+    .turquoise2 {
+        RoundCorner 10
+        FontColor Black 
+        BackgroundColor #00b393
+        FontSize 20
+        linecolor #363636
+    }
+
+    .turquoise3 {
+        RoundCorner 10
+        FontColor white 
+        BackgroundColor #006654
+        FontSize 20
+        linecolor #363636
+    }
+
+    .cyan1 {
+        RoundCorner 10
+        FontColor Black
+        BackgroundColor #80fff2
+        FontSize 20
+        linecolor #363636
+    }
+
+    .cyan2 {
+        RoundCorner 10
+        FontColor Black 
+        BackgroundColor #00e6ce
+        FontSize 20
+        linecolor #363636
+    }
+
+    .cyan3 {
+        RoundCorner 10
+        FontColor white 
+        BackgroundColor #00ccb7
+        FontSize 20
+        linecolor #363636
+    }
+
+    .blue1 {
+        RoundCorner 10
+        FontColor black
+        BackgroundColor #8091ff
+        FontSize 20
+        linecolor #363636
+    }
+
+    .blue2 {
+        RoundCorner 10
+        FontColor white
+        BackgroundColor #0026ff
+        FontSize 20
+        linecolor #363636
+    }
+
+    .blue3 {
+        RoundCorner 10
+        FontColor white 
+        BackgroundColor #1b00b3
+        FontSize 20
+        linecolor #363636
+    }
+
+    .purple1 {
+        RoundCorner 10
+        FontColor black
+        BackgroundColor #d84dff
+        FontSize 20
+        linecolor #363636
+    }
+
+    .purple2 {
+        RoundCorner 10
+        FontColor white
+        BackgroundColor #C700ff
+        FontSize 20
+        linecolor #363636
+    }
+
+    .purple3 {
+        RoundCorner 10
+        FontColor white 
+        BackgroundColor #770099
+        FontSize 20
+        linecolor #363636
+    }
+
+    .pink1 {
+        RoundCorner 10
+        FontColor black
+        BackgroundColor #ff99eb
+        FontSize 20
+        linecolor #363636
+    }
+
+    .pink2 {
+        RoundCorner 10
+        FontColor white
+        BackgroundColor #Ff00cd
+        FontSize 20
+        linecolor #363636
+    }
+
+    .pink3 {
+        RoundCorner 10
+        FontColor white 
+        BackgroundColor #cc00a4
+        FontSize 20
+        linecolor #363636
+    }
+
+    .gray1 {
+        RoundCorner 10
+        FontColor black
+        BackgroundColor #dddddd
+        FontSize 20
+        linecolor #363636
+    }
+
+    .gray2 {
+        RoundCorner 10
+        FontColor white
+        BackgroundColor #999999
+        FontSize 20
+        linecolor #363636
+    }
+
+    .gray3 {
+        RoundCorner 10
+        FontColor white 
+        BackgroundColor #555555
+        FontSize 20
+        linecolor #363636
+    }
+
+    .roxo {
         RoundCorner 10
         FontColor White
         BackgroundColor #683c94
         FontSize 20
         linecolor #063970
     }
+
     .cinza {
         RoundCorner 10
         FontColor White
@@ -70,7 +312,33 @@ skinparam shadowing true
         linecolor #64b354
     }
 
-    '-----objetos
+    'OBJECTS:
+    .box1 {
+        BackgroundColor #fefefe
+        LineStyle 0
+        LineThickness 1
+        roundCorner 25
+        fontColor black
+        FontSize 20
+    }
+
+    .box2 {
+        BackgroundColor #fefefe
+        LineStyle 4
+        LineThickness 1
+        roundCorner 25
+        fontColor black
+        FontSize 20
+    }
+
+    .box3 {
+        BackgroundColor #fefefe
+        LineStyle 6
+        LineThickness 1
+        roundCorner 25
+        fontColor black
+        FontSize 20
+    }
 
     .agro {
         RoundCorner 10
